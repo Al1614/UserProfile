@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+    background-color:white;
+    color:royalblue
+}
+body {
+    background-color:papayawhip;
+}
+.blue {
+    color: royalblue;
+}
+.purple {
+    color:purple;
+}
+.green {
+    color:green;
+}
+.darkblue {
+    color:blue; 
+}
+.orange {
+    color:orange;
+}
+.pink {
+    color:pink;
+}
+h3 {
+    font-size: 25px;
+    background-color: white;
+    text-decoration: underline;
+}
+h2 {
+    text-decoration: underline;
+    background-color: white;
+}
+h2 {
+    text-align: center;
+}
+.labels {
+    text-align: center;
+}
+.messages {
+    text-align: center;
+}
